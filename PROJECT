@@ -1,0 +1,15 @@
+domain: ww.baopintui.cn
+layout:
+- go.kubebuilder.io/v3
+projectName: cronbydp
+repo: cronbydp
+resources:
+- api:
+    crdVersion: v1
+    namespaced: true
+  controller: true
+  domain: ww.baopintui.cn
+  kind: Cronbydp
+  path: cronbydp/api/v1
+  version: v1
+version: "3"

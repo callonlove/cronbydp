@@ -1,0 +1,24 @@
+# permissions for end users to edit cronbydps.
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: cronbydp-editor-role
+rules:
+- apiGroups:
+  - ww.baopintui.cn
+  resources:
+  - cronbydps
+  verbs:
+  - create
+  - delete
+  - get
+  - list
+  - patch
+  - update
+  - watch
+- apiGroups:
+  - ww.baopintui.cn
+  resources:
+  - cronbydps/status
+  verbs:
+  - get

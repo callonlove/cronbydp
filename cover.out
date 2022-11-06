@@ -1,0 +1,27 @@
+mode: set
+cronbydp/controllers/deployment_watch.go:52.99,57.16 4 0
+cronbydp/controllers/deployment_watch.go:68.2,68.47 1 0
+cronbydp/controllers/deployment_watch.go:96.2,96.27 1 0
+cronbydp/controllers/deployment_watch.go:57.16,58.29 1 0
+cronbydp/controllers/deployment_watch.go:64.3,65.57 2 0
+cronbydp/controllers/deployment_watch.go:58.29,63.4 2 0
+cronbydp/controllers/deployment_watch.go:68.47,69.31 1 0
+cronbydp/controllers/deployment_watch.go:69.31,71.49 2 0
+cronbydp/controllers/deployment_watch.go:71.49,73.46 2 0
+cronbydp/controllers/deployment_watch.go:73.46,76.46 3 0
+cronbydp/controllers/deployment_watch.go:76.46,78.76 2 0
+cronbydp/controllers/deployment_watch.go:78.76,79.48 1 0
+cronbydp/controllers/deployment_watch.go:79.48,81.144 2 0
+cronbydp/controllers/deployment_watch.go:81.144,86.10 4 0
+cronbydp/controllers/deployment_watch.go:100.70,104.2 1 0
+cronbydp/controllers/cronbydp_controller.go:54.100,58.16 3 0
+cronbydp/controllers/cronbydp_controller.go:80.2,80.27 1 0
+cronbydp/controllers/cronbydp_controller.go:58.16,59.29 1 0
+cronbydp/controllers/cronbydp_controller.go:65.3,66.57 2 0
+cronbydp/controllers/cronbydp_controller.go:59.29,64.4 2 0
+cronbydp/controllers/cronbydp_controller.go:67.8,69.48 2 0
+cronbydp/controllers/cronbydp_controller.go:77.3,78.104 2 0
+cronbydp/controllers/cronbydp_controller.go:69.48,70.24 1 0
+cronbydp/controllers/cronbydp_controller.go:70.24,72.5 1 0
+cronbydp/controllers/cronbydp_controller.go:72.10,74.5 1 0
+cronbydp/controllers/cronbydp_controller.go:84.71,88.2 1 0

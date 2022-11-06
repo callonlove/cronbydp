@@ -1,0 +1,20 @@
+# permissions for end users to view cronbydps.
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: cronbydp-viewer-role
+rules:
+- apiGroups:
+  - ww.baopintui.cn
+  resources:
+  - cronbydps
+  verbs:
+  - get
+  - list
+  - watch
+- apiGroups:
+  - ww.baopintui.cn
+  resources:
+  - cronbydps/status
+  verbs:
+  - get
